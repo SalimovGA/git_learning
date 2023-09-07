@@ -6,7 +6,9 @@ def rt():
 
 if __name__ == '__main__':
     print(2,2)
-
+#32513443142342134234213241
 
 def attemp():
     return 1
+
+#,dkcsdv;lsd
